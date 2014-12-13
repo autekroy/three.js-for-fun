@@ -1,14 +1,15 @@
-Underwater using three.js
+Fun stuff for using three.js
 =======================================================
-### Underwater project
+### Three.js projects
  * Author: [Yao-Jen Chang](autekwing@ucla.edu)
- * Date: 12/09, 2014
-
+ * Date: 12/12, 2014
+ * [Present webpage](http://autekroy.github.io/three.js-for-fun/)
+ 
 -------------------------------------------------------
- ### About Project
+ ### About Fun-for-three.js
  * Inspired by computer graphic courses (UCLA 174A) [term project](https://github.com/autekroy/The-Other-Fish-in-the-Sea)
  * To practice webgl (three.js)
- * Project Goal: make a beautiful underwater scence
+ * Project Goal: make some interesting stuff and practice three.js
 
 -------------------------------------------------------
 ### Enviornment and tools:
